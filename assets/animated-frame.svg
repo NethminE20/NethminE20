@@ -41,7 +41,7 @@
 
   <!-- TEXT INSIDE THE FRAME -->
   <g font-family="Inter, Arial, sans-serif" text-anchor="middle" fill="#ffffff">
-    <text x="500" y="95" font-size="30" font-weight="700">
+    <text x="500" y="95" font-size="30" font-weight="700" color = black>
       🎉 Hey there! I'm Nethmin Tharusha
     </text>
     <text x="500" y="135" font-size="18" fill-opacity="0.85">
