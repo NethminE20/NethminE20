@@ -13,30 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🎉 Hey there! I'm Nethmin Tharusha
-# 💻 Computer Engineering Undergraduate — University of Peradeniya
+
+### 💻 Computer Engineering Undergraduate — University of Peradeniya
 
 ## 🌈 About Me
+
 🔹 Passionate about scalable backend systems, IoT solutions, and full-stack development
 🔹 Exploring cloud-native architectures, microservices, and machine learning applications
 🔹 Always learning, building, and experimenting with new technologies
 
 ## 🚀 Tech Arsenal
-# Languages
+### Languages
 
 🟦 Java • 🐍 Python • 🎯 Dart • 🟨 JavaScript • 🔧 C
 
-# Frameworks & Libraries
+### Frameworks & Libraries
 
 ⚡ Spring Boot • 🧪 Flask • ⚛️ React.js • 📱 Flutter
 
-# Backend Technologies
+### Backend Technologies
 
 🟩 Node.js • Express.js
 
-# Databases
+### Databases
 
 🗄️ MySQL • 🍃 MongoDB
 
-# Cloud & DevOps
+### Cloud & DevOps
 
 ☁️ AWS • 🐳 Docker • 🔄 GitHub Actions
