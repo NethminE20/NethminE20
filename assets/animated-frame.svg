@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Save this as assets/animated-frame.svg -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000" height="160" viewBox="0 0 1000 160" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- animated gradient used for the stroke -->
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4d4d">
+        <animate attributeName="stop-color"
+                 values="#ff4d4d; #ff9a4d; #ffd24d; #8cf04a; #4dd2ff; #b46dff; #ff4d4d"
+                 dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#4dd2ff">
+        <animate attributeName="stop-color"
+                 values="#4dd2ff; #b46dff; #ff4d4d; #ff9a4d; #ffd24d; #8cf04a; #4dd2ff"
+                 dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#8cf04a">
+        <animate attributeName="stop-color"
+                 values="#8cf04a; #ff4d4d; #ff9a4d; #ffd24d; #4dd2ff; #b46dff; #8cf04a"
+                 dur="12s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- subtle moving pattern to make the frame feel dynamic -->
+    <linearGradient id="glow" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.00">
+        <animate attributeName="offset" dur="6s" values="0%;50%;100%;50%;0%" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06" />
+    </linearGradient>
+
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- background (transparent so it fits any README theme) -->
+  <rect x="6" y="6" rx="18" ry="18" width="988" height="148"
+        fill="transparent" stroke="none"/>
+
+  <!-- outer glowing stroke -->
+  <rect x="10" y="10" rx="16" ry="16" width="980" height="140"
+        fill="transparent" stroke="url(#grad)" stroke-width="6" filter="url(#soft)" stroke-linejoin="round"/>
+
+  <!-- inner frame (thin) -->
+  <rect x="26" y="26" rx="12" ry="12" width="948" height="108"
+        fill="transparent" stroke="url(#grad)" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- subtle animated sheen on top -->
+  <rect x="10" y="10" rx="16" ry="16" width="980" height="140"
+        fill="none" stroke="url(#glow)" stroke-width="2" stroke-linejoin="round" />
+
+  <!-- optional text placeholder — remove if you want pure frame -->
+  <g font-family="Inter, Arial, sans-serif" text-anchor="middle" fill="#ffffff" fill-opacity="0.98">
+    <text x="500" y="70" font-size="22" font-weight="700">Nethmin Tharusha — Computer Engineering</text>
+    <text x="500" y="100" font-size="14" fill-opacity="0.9">Building IoT · Cloud · ML · Full-Stack</text>
+  </g>
+</svg>
