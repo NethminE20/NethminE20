@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Frame image (centered) -->
-<p align="center">
-  <img src="./assets/animated-frame.svg" alt="Multicolor animated frame banner" />
-</p>
 
 
 <!-- Then your heading aligned with the frame -->
