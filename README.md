@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <!-- Frame image (centered) -->
 <p align="center">
-  <img src="./assets/animated-frame.svg" alt="Animated multicolor frame" />
+  <img src="./assets/animated-frame.svg" alt="Multicolor animated frame banner" />
 </p>
+
 
 <!-- Then your heading aligned with the frame -->
 <h1 align="center">🎉 Hey there! I'm <strong>Nethmin Tharusha</strong></h1>
