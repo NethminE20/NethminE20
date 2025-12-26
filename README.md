@@ -44,14 +44,14 @@ Here are some ideas to get you started:
 </p> 
 -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/nethmin-tharusha-bb9bb12b0/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/nethmin-tharusha-bb9bb12b0/" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"
   </a>
-  <a href="https://www.facebook.com/nethmin.tharusha?mibextid=rS40aB7S9Ucbxw6v">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+  <a href="https://www.facebook.com/nethmin.tharusha?mibextid=rS40aB7S9Ucbxw6v" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40"
   </a>
-  <a href="https://www.instagram.com/nethmin_tharusha?igsh=MWlnMjNscWNoYW52Mg==">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  <a href="https://www.instagram.com/nethmin_tharusha?igsh=MWlnMjNscWNoYW52Mg==" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"
   </a>
   <a href="https://www.thecn.com/EU116">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
