@@ -50,14 +50,14 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/nethmin.tharusha?mibextid=rS40aB7S9Ucbxw6v">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
   </a>
-  <a href="https://www.instagram.com/nethmin_tharusha?igsh=MWlnMjNscWNoYW52Mg==">
+  <a href="https://www.instagram.com/nethmin_tharusha/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
   </a>
   <a href="https://www.youtube.com/@YOUR_CHANNEL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
   </a>
   <a href="https://www.thecn.com/EU116">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/>
   </a>
 </p>
 
