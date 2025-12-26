@@ -27,12 +27,10 @@ Here are some ideas to get you started:
 
 ## 🤝 Connect With Me
 
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/nethmin-tharusha-bb9bb12b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/NethminE20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/nethmin.tharusha?mibextid=rS40aB7S9Ucbxw6v" target="_blank"> 
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/> 
@@ -43,7 +41,26 @@ Here are some ideas to get you started:
   <a href="https://www.thecn.com/EU116" target="_blank"> 
     <img src="https://img.shields.io/badge/CNE%20Portfolio-0A1AFF?style=flat&logo=google-chrome&logoColor=white"/> 
   </a> 
+</p> 
+-->
+<p align="left">
+  <a href="https://www.linkedin.com/in/nethmin-tharusha-bb9bb12b0/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/nethmin.tharusha?mibextid=rS40aB7S9Ucbxw6v">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/nethmin_tharusha?igsh=MWlnMjNscWNoYW52Mg==">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/@YOUR_CHANNEL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+  </a>
+  <a href="https://www.thecn.com/EU116">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
+  </a>
 </p>
+
 
 ## 🚀 Tech Arsenal
 ### Languages
@@ -66,14 +83,3 @@ Here are some ideas to get you started:
 
 ☁️ AWS • 🐳 Docker • 🔄 GitHub Actions • 📬 Postman
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NethminE20&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NethminE20&theme=tokyonight" />
-</p>
-
----
