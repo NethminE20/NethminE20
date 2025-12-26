@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"
   </a>
   <a href="https://www.thecn.com/EU116">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Eportfolio" height="30" width="40"/>
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=Ksyr9bmA&id=A6DB88B8E613113DAF43FD1C31C3D2CEEF027E0E&thid=OIP.Ksyr9bmAniV2dMr7CjyqvAAAAA&mediaurl=https%3A%2F%2Fchattanoogastate.edu%2Fsites%2Fdefault%2Ffiles%2Feportfolio-logo.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.2accabf5b9809e257674cafb0a3caabc%3Frik%3DDn4C787SwzEc%252fQ%26pid%3DImgRaw%26r%3D0&exph=211&expw=245&q=+Course+Network+Eportfolio+Logo&FORM=IRPRST&ck=B2341F9B29BCC81EF8A57855F8C2ED04&selectedIndex=1&itb=0&cw=1375&ch=671&mode=overlay" alt="Eportfolio" height="30" width="40"/>
   </a>
 </p>
 
