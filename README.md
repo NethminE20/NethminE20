@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"
   </a>
   <a href="https://www.thecn.com/EU116">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Eportfolio" height="30" width="40"/>
   </a>
 </p>
 
