@@ -85,9 +85,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NethminE20/NethminE20/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=NethminE20&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
----
-
 ⭐ *Feel free to check out my repositories and connect with me!*  
