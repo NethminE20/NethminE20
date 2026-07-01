@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ## 🚀 Tech Arsenal
 ### Languages
 
-🟦 Java • 🐍 Python • 🎯 Dart • 🟨 JavaScript • 🔧 C
+🟦 Java • 🐍 Python • 🎯 Dart • 🟨 JavaScript • 🔧 C • 🐹 Golang • ⭐ Groovy
 
 ### Frameworks & Libraries
 
@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ### Databases
 
-🗄️ MySQL • 🍃 MongoDB
+🗄️ MySQL • 🍃 MongoDB • 🐘 PostgreSQL
 
 ### Cloud, DevOps & Tools
 
-☁️ AWS • 🐳 Docker • 🔄 GitHub Actions • 📬 Postman
+☁️ AWS • 🐳 Docker • 🔄 GitHub Actions • 📬 Postman • 🤵‍♂️ Jenkins • ☸️ Kubernetes
 
 ## 📊 GitHub Stats
 
