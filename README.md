@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Then your heading aligned with the frame -->
 ## 🎉 Hey there! I'm Nethmin Tharusha
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=22C3E8&width=435&lines=Computer+Engineering+Undergraduate;Full+Stack+Developer;IoT+%7C+ML+Enthusiast;Cloud-Native+Developer;Always+Learning+New+Tech" alt="Typing Animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=22C3E8&width=435&lines=Computer+Engineering+Undergraduate;Full+Stack+Developer;IoT+%7C+ML+Enthusiast;DevOps+Enthusiast:Cloud-Native+Developer;Always+Learning+New+Tech" alt="Typing Animation" /> </p>
 
 ## 🌈 About Me
 
